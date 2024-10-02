@@ -1,4 +1,4 @@
-# Compile instructions for Java
+## Compile instructions for Java
 
 git init/n  
 git add (file/folder)  
